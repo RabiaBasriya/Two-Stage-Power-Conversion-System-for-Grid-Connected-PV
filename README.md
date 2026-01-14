@@ -11,7 +11,7 @@ The primary objectives of this project are:
 ---
 
 ## ⚙️ System Architecture
-
+![System Architecture of PV System](images/System%20Architecture%20PV.png)
 
 
 
